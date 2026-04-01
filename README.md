@@ -1,8 +1,7 @@
-
-/screenshots
+### screenshots
   - aws-console-ec2-launch.png
   - instance-running.png
   - gitbash-ssh-connection.png
   - yum-update-output.png
-/diagrams
-  - ec2-lab-architecture.drawio (or .png)
+## diagrams
+  - ec2-lab-architecture.drawio  .png
